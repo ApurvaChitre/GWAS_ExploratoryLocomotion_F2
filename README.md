@@ -7,8 +7,7 @@ to four 2 x 12-core Intel Haswell processors with 64GB of main memory.
 HPC systems with adequate adjustments such as inputting the paths for
 the locations of files/ programs and configuring appropriate system
 specific scheduler directives.  
-• The data required to run the pipeline can be found at \[UCSD library
-link\]
+• The data required to run the pipeline can be found at https://doi.org/10.6075/J0K074G9J0K074G9
 
 # GRM
 
